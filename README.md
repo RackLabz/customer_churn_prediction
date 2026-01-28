@@ -1,5 +1,3 @@
-# customer_churn_prediction
-
 # Customer Churn Prediction Using Machine Learning
 
 Customer churn is one of the most costly problems faced by subscription-based businesses. Retaining an existing customer is often significantly cheaper than acquiring a new one, making early churn detection a high-impact use case for machine learning.
@@ -122,5 +120,7 @@ Potential future improvements include:
 ---
 
 ## Author
+### Ugwuoke Shedrack Chinonso (@RackLabz)
+GitHub: https://github.com/RackLabz
 
-**Ugwuoke Shedrack Chinonso**  
+LinkedIn: https://www.linkedin.com/in/shedrack-chinonso-69058219a
